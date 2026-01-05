@@ -26,6 +26,7 @@ This project showcases practical Flutter development skills by implementing a cu
 Since this repository contains only the lib/ folder, follow these steps to run the project locally:
 
 1. Create a New Flutter Project
+   
 in your vscode terminal run this commands
 - flutter create simple_calendar
 - cd simple_calendar
@@ -35,6 +36,7 @@ in your vscode terminal run this commands
 - Copy the lib/ folder from this repository into the project
 
 3. Install Dependencies
+   
 in your vscode terminal run this commands
 - flutter pub get
 
