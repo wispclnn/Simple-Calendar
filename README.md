@@ -1,8 +1,12 @@
 A performant and user-friendly calendar application built with Flutter, designed to demonstrate clean architecture, efficient state handling, and cross-platform mobile development. The app focuses on clarity, responsiveness, and scalable UI design.
 
+
+
 🔍 Overview
 
 This project showcases practical Flutter development skills by implementing a custom calendar interface with smooth month navigation and accurate date handling. Emphasis was placed on code readability, UI consistency, and maintainability, making it suitable as a foundation for more complex productivity applications.
+
+
 
 ✨ Key Features
 
@@ -12,6 +16,8 @@ This project showcases practical Flutter development skills by implementing a cu
 
 - Clean, minimal design following Flutter UI best practices
 
+
+
 🧠 Technical Highlights
 
 - Custom calendar logic using Dart DateTime
@@ -19,6 +25,8 @@ This project showcases practical Flutter development skills by implementing a cu
 - Separation of UI components into reusable widgets
 
 - Scalable project structure for future feature expansion
+
+
 
 
 🖥️ Running the Project(Using Only lib/ Files)
@@ -40,11 +48,17 @@ in your vscode terminal run this commands
 in your vscode terminal run this commands
 - flutter pub get
 
+
+
+
 🛠️ Tech Stack
 
 - Flutter — UI framework
 
 - Dart — application logic
+
+
+
 
 📱 Platform & Deployment
 
