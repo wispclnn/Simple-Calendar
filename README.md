@@ -21,6 +21,23 @@ This project showcases practical Flutter development skills by implementing a cu
 - Scalable project structure for future feature expansion
 
 
+🖥️ Running the Project(Using Only lib/ Files)
+
+Since this repository contains only the lib/ folder, follow these steps to run the project locally:
+
+1. Create a New Flutter Project
+in your vscode terminal run this commands
+- flutter create simple_calendar
+- cd simple_calendar
+
+2. Replace the lib/ Folder
+- Delete the default lib/ folder
+- Copy the lib/ folder from this repository into the project
+
+3. Install Dependencies
+in your vscode terminal run this commands
+- flutter pub get
+
 🛠️ Tech Stack
 
 - Flutter — UI framework
